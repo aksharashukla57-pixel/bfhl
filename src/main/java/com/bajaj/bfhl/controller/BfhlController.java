@@ -23,6 +23,7 @@ public class BfhlController {
 
     private final BfhlService bfhlService;
 
+    @org.springframework.beans.factory.annotation.Autowired
     public BfhlController(BfhlService bfhlService) {
         this.bfhlService = bfhlService;
     }

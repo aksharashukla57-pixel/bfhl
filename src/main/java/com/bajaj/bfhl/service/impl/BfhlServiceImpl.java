@@ -19,6 +19,7 @@ import java.util.List;
  * 
  * Written in standard Java without Lombok to support JDK 26 compiler profiles.
  */
+@Service
 public class BfhlServiceImpl implements BfhlService {
 
     private static final Logger log = LoggerFactory.getLogger(BfhlServiceImpl.class);

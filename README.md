@@ -2,6 +2,8 @@
 
 An enterprise-grade, high-performance Spring Boot REST API built to handle tokens, classifications, arithmetic operations, and custom string mutations for the **BFHL challenge**.
 
+🔗 **GitHub Repository**: [https://github.com/aksharashukla57-pixel/bfhl](https://github.com/aksharashukla57-pixel/bfhl)
+
 ---
 
 ## 🚀 Project Overview
